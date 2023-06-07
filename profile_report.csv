@@ -1,0 +1,17 @@
+,Type,Time in Mins
+Unzipping files,Stage,0.006860214216612803
+Reading Files From Repository,Stage,0.001339615533349085
+Creating Feature 1: Total Payment Value,Step,8.495266653577952e-06
+Creating Feature 2: Num Items Per Order,Step,0.0012712592333021652
+Creating Feature 3: Num Categories Per Order,Step,0.0029392338500353315
+Creating Feature 4: Customer Location,Step,0.0002856803166650934
+Creating Feature 5: Num Sellers Per Order,Step,0.002558550616655945
+Creating Feature 6: Num Seller Cities Per Order,Step,0.002664493333334879
+Step 1: Start processing brazilian holidays,Sub-Step,0.0002902611666286248
+Step 2: Register SQl Context,Sub-Step,1.2179500117781572e-06
+Step 3: Prepare & Create Feature 7: Num Holidays For Customer,Sub-Step,0.005911935483345588
+Step 4: Prepare & Create Feature 8: Num Holidays For Sellers,Sub-Step,0.010349306683322842
+Creating Features,Stage,0.03740382430005411
+Step 1: Create Final Dataset,Step,0.04874966543332751
+Step 2: Train Model,Step,2.812896499749998
+Close out pipeline,Stage,0.5834606079333753
